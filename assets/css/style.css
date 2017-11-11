@@ -1,6 +1,10 @@
-body {
-  background-color: "#ffffff";
+
+button{
+  text-align: right;
+}
+footer {
+  text-align: center;
 }
 h1{
-  color: "green";
+  color: green;
 }
